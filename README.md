@@ -6,7 +6,7 @@
 
 <h3 align="center">A collection of awesome projects.</h3>
 <h4 align="center">
-  ![](https://komarev.com/ghpvc/?username=Anassm?)
+  ![](https://komarev.com/ghpvc/?username=Anassm)
 </h4>
 
 <hr>
