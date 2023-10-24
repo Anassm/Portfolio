@@ -20,6 +20,7 @@
 
 ## My projects
 - [`TODO-list website design` Small website I made in React-JS.](https://github.com/Anassm/todolist)
+- [`LegacyStrike` Containing all repo's for LegacyStrike web stuff.](https://github.com/Anassm/legacystrike)
 - [`Coming soon` More websites in the making.. Coming soon.](https://github.com/Anassm)
 
 Currently following Scrimba React-JS courses. As I haven't showed much of my JavaScript capabilities,<br>
